@@ -1,162 +1,137 @@
 # Process 9 — Research Article Architecture & Word Allocation
 
 ## Status
-Complete.
+Complete — RETOUCHED TO MATCH OFFICIAL CAG–ICSSR GUIDELINES
 
-## Purpose
+## Official structural requirement
 
-This process fixes the architecture of the 4,000–5,000-word CAG–ICSSR research article before substantive drafting. The architecture is designed around the competition's research expectations, the established research questions/objectives, and the evidence developed in Processes 1–8.
+The official CAG–ICSSR 2026 guidelines require the article to contain:
 
-The article should be written in the researcher's own voice and should not be treated as a ready-to-submit AI-generated article.
+- Introduction
+- Conceptual and theoretical background
+- Statement of the problem
+- Objectives
+- Methodology, covering methodological approach, variables and tools employed
+- Data analysis and findings
+- Discussion
+- Conclusions
+- Policy Suggestions and the Way Forward
 
-## 1. Recommended article title
+They also require UG/PG articles to be **4,000–5,000 words**, MLA 9th edition, Times New Roman 12-point, standard margins and double spacing. The article is subject to blind review and must not contain information revealing the author's identity. citeturn4view0
 
-Working title:
+## Important correction from the earlier architecture
 
-**Digital Governance and the Reliability of Skill-Development Administration: An Evidence-Based Analysis of PMKVY through CAG Audit Findings**
+The earlier structure used “Literature Review” as a major heading and combined several required elements. That was academically reasonable but did not mirror the competition's stated structure closely enough.
 
-Alternative title:
+The final architecture therefore uses the official required headings while incorporating the literature review inside **Conceptual and Theoretical Background**.
 
-**From Digital Infrastructure to Governance Reliability: Examining PMKVY through CAG Audit Evidence**
+## 1. Recommended working title
 
-The title should remain descriptive rather than claiming programme failure or reform success.
+**Digital Governance and the Reliability of Skill-Development Administration: Evidence from the CAG Performance Audit of PMKVY**
+
+Alternative:
+
+**From Digital Infrastructure to Governance Reliability: An Audit-Based Analysis of PMKVY**
+
+The title is descriptive and does not claim programme failure or reform success.
 
 ## 2. Target word budget
 
-Competition limit: 4,000–5,000 words.
+Recommended working target: **4,700–4,800 words**.
 
-Recommended working target: **4,600–4,750 words**, excluding references and, where permitted, non-body material.
-
-| Section | Target words |
+| Required section | Target words |
 |---|---:|
 | Abstract | 180 |
-| Keywords | 5–7 terms |
-| 1. Introduction | 550 |
-| 2. Literature Review | 650 |
-| 3. Research Gap, Questions & Objectives | 300 |
-| 4. Methodology | 500 |
-| 5. Results / Audit Evidence | 1,050 |
-| 6. Discussion | 800 |
-| 7. Governance Framework & Policy Implications | 500 |
-| 8. Conclusion | 220 |
-| **Total** | **4,750** |
+| 1. Introduction | 450 |
+| 2. Conceptual and Theoretical Background | 650 |
+| 3. Statement of the Problem | 300 |
+| 4. Objectives | 120 |
+| 5. Methodology | 500 |
+| 6. Data Analysis and Findings | 1,150 |
+| 7. Discussion | 750 |
+| 8. Policy Suggestions and the Way Forward | 400 |
+| 9. Conclusions | 200 |
+| **Total** | **4,700** |
 
-The final count must be checked after drafting. If the competition interprets the 4,000–5,000 limit differently, the final submission should follow the official competition instructions.
+References are handled separately according to the submission format.
 
 ## 3. Article logic
 
-The complete article should follow this sequence:
+**Context → Conceptual background → Problem → Objectives → Method → Evidence/Findings → Discussion → Policy suggestions → Conclusion**
 
-**Problem → Existing knowledge → Gap → Research questions → Method → Evidence → Results → Interpretation → Governance framework → Policy implications → Conclusion**
+The research questions can be stated within the Statement of the Problem and Introduction without creating unnecessary extra headings.
 
-This prevents the article from becoming a descriptive summary of the CAG report.
+## 4. Abstract — 180 words
 
-## 4. Section-by-section architecture
+Include:
 
-### Abstract — 180 words
+1. policy/research context;
+2. problem;
+3. purpose;
+4. methodology and evidence;
+5. principal findings;
+6. contribution/implication.
 
-Must contain five elements:
+Avoid detailed statistics unless essential.
 
-1. Background/problem.
-2. Research purpose.
-3. Method and evidence base.
-4. Main findings.
-5. Contribution/implication.
+## 5. Introduction — 450 words
 
-Do not introduce detailed statistics or citations unless required by final formatting practice.
+### P1 — Context
+Introduce PMKVY as a large-scale national skill-development programme and explain why digital information systems matter for implementation and oversight.
 
-The abstract should state that the study uses qualitative document analysis, descriptive quantitative analysis and comparative policy/document analysis.
+### P2 — Audit context
+Introduce CAG Report No. 20 of 2025 as the primary empirical evidence and identify the broad governance issue without reproducing the full audit.
 
-### Keywords
+### P3 — Research purpose
+State that the study examines data reliability, beneficiary verification, evidence retention, monitoring/validation, interoperability, feedback and outcome tracking as connected governance functions.
 
-Suggested:
-- PMKVY
-- digital governance
-- data governance
-- skill development
-- beneficiary verification
-- digital monitoring
-- public-sector data
+### P4 — Contribution
+Explain the audit-based digital-governance perspective and later-reform comparison.
 
-Use only terms genuinely represented in the article.
+## 6. Conceptual and Theoretical Background — 650 words
 
----
+This section combines the literature review with the conceptual foundation required by the official guidelines.
 
-## 5. Introduction — 550 words
-
-### Paragraph structure
-
-**P1 — Policy context**
-- PMKVY and large-scale skill-development administration.
-- Increasing reliance on digital systems.
-
-**P2 — Governance problem**
-- Digital administration creates information that must be reliable for verification, monitoring and outcome tracking.
-- CAG audit provides concrete evidence of weaknesses.
-
-**P3 — Research problem**
-- Existing PMKVY studies examine impact, training, implementation and employment.
-- Broader digital-government literature examines data governance and interoperability.
-- Limited integrated analysis connects these strands through audit evidence.
-
-**P4 — Research purpose**
-- State the main research question in concise form.
-- Introduce the control-chain perspective.
-
-**P5 — Contribution**
-- Audit-based digital-governance analysis.
-- Six/seven connected governance functions.
-- Comparison with later PMKVY 4.0/SIDH developments.
-
-Avoid turning the introduction into a full CAG summary.
-
----
-
-## 6. Literature Review — 650 words
-
-Organise literature thematically rather than source-by-source.
-
-### Theme A — PMKVY and skill-development implementation
-Discuss:
+### 6.1 PMKVY/skilling literature
+Cover verified research on:
 - programme implementation;
 - training effectiveness;
 - employment/placement outcomes;
-- implementation challenges.
+- beneficiary experience and implementation challenges.
 
-### Theme B — Digital government and data governance
-Discuss:
+### 6.2 Digital-government/data-governance literature
+Cover:
 - data quality;
 - data governance;
 - information reliability;
-- digital administrative systems.
+- digital public administration.
 
-### Theme C — Interoperability and information use
-Discuss:
-- cross-system integration;
-- Centre-State information access;
-- governance usefulness of interoperable systems.
+### 6.3 Interoperability and information use
+Use relevant literature on:
+- identity/data sharing;
+- interoperability;
+- organisational coordination;
+- administrative usability.
 
-### Theme D — Outcome measurement
+### 6.4 Outcome measurement
 Discuss:
 - monitoring versus outcomes;
 - post-certification/labour-market tracking;
-- course correction.
+- evidence-based course correction.
 
-### Literature synthesis
+### 6.5 Conceptual framework
 
-End with the established gap:
+Introduce:
 
-> Within the literature reviewed for this study, there is limited integrated analysis of PMKVY audit evidence that brings together data quality, beneficiary verification, information retention, monitoring controls, system validation, Centre-State data integration and outcome tracking as interconnected governance functions.
+**Digital infrastructure → data generation → data reliability → verification → evidence retention → monitoring/validation → information integration → feedback → outcome tracking → governance use**
 
-Do not claim that no previous study has examined these subjects.
+External frameworks such as NITI Aayog DGQI and OECD digital-government research should be used only where they directly clarify the PMKVY evidence.
 
----
-
-## 7. Research Gap, Questions & Objectives — 300 words
+## 7. Statement of the Problem — 300 words
 
 ### Research problem
 
-Use the established P3 formulation, shortened only where necessary.
+PMKVY uses digital systems across registration, training, assessment, certification, monitoring and related outcome processes. CAG's audit identified weaknesses in data quality, electronic evidence retention, beneficiary verification, monitoring controls, system validation and Centre-State access to information. Existing literature addresses different aspects of PMKVY and digital government, but the reviewed literature provides limited integrated analysis of these audit findings as an interconnected governance chain.
 
 ### Main research question
 
@@ -164,374 +139,272 @@ Use the established P3 formulation, shortened only where necessary.
 
 ### Sub-questions
 
-Retain the four established sub-RQs:
+1. What data-quality, data-retention and IT-control weaknesses were identified?
+2. What beneficiary identity and eligibility-verification weaknesses were identified?
+3. What monitoring, validation and Centre-State integration issues were identified?
+4. How do PMKVY 4.0/SIDH developments respond to the identified governance issues?
 
-1. Data-quality, retention and IT-control weaknesses.
-2. Identity/age/education/eligibility verification.
-3. Monitoring, validation and Centre-State integration.
-4. PMKVY 4.0/SIDH response.
+### Research gap
 
-### Objectives
+Use the verified P3 formulation and avoid “first study” or “unique study” claims.
 
-Use the five established objectives.
+## 8. Objectives — 120 words
 
-This section should be concise because the questions and objectives are already operationalised in the methodology.
+1. Examine CAG-identified data-quality, data-retention and IT-control weaknesses.
+2. Analyse beneficiary identity and eligibility-verification weaknesses.
+3. Examine monitoring, system-validation and Centre-State information-integration issues.
+4. Examine relevant PMKVY 4.0/SIDH governance responses.
+5. Develop an evidence-based governance framework for data reliability, verification, monitoring, feedback and outcome tracking.
 
----
+## 9. Methodology — 500 words
 
-## 8. Methodology — 500 words
+### 9.1 Methodological approach
 
-### 8.1 Research design
+**Qualitative document analysis + descriptive quantitative analysis + comparative policy/document analysis.**
 
-State:
+### 9.2 Evidence base
 
-**Qualitative document analysis + descriptive quantitative analysis + comparative policy/document analysis**
+Primary:
+- CAG Report No. 20 of 2025.
 
-### 8.2 Primary evidence
+Supporting:
+- official PMKVY 4.0/SIDH documents;
+- official government updates;
+- NITI Aayog/DMEO;
+- OECD;
+- verified academic literature.
 
-CAG Report No. 20 of 2025.
+### 9.3 Period and scope
 
-### 8.3 Time boundary
+- Main CAG audit: PMKVY 1.0–3.0, 2015–22.
+- Selected-State component: eight States.
+- Later reform layer: PMKVY 4.0/SIDH and subsequent official evidence.
 
-Main audit:
-- PMKVY 1.0–3.0;
-- July 2015–March 2022.
+### 9.4 Unit of analysis
 
-Later evidence:
-- PMKVY 4.0;
-- SIDH;
-- later official updates.
+Documented governance/audit observation and associated control/function.
 
-Never merge these periods silently.
+### 9.5 Analytical variables/dimensions
 
-### 8.4 Unit of analysis
+Because this is not a causal statistical study, the “variables” are operational analytical dimensions:
 
-Documented governance/audit observation and associated control/function, not individual beneficiary.
+- data reliability;
+- beneficiary verification;
+- evidence retention;
+- monitoring/system validation;
+- interoperability/information access;
+- feedback/outcome tracking;
+- governance use.
 
-### 8.5 Analytical dimensions
+### 9.6 Tools employed
 
-1. Data quality
-2. Beneficiary verification
-3. Evidence retention/traceability
-4. Monitoring/system validation
-5. Interoperability/integration
-6. Feedback/outcome tracking
+- evidence matrix;
+- spreadsheet for descriptive calculations and denominator checks;
+- thematic coding matrix;
+- source-verification log;
+- MLA 9 reference/citation control.
 
-### 8.6 Analysis procedure
+### 9.7 Analysis procedure
 
-Explain the finding-analysis template:
+**Finding → exact evidence → scope/period → governance dimension → interpretation → control requirement → later reform → evidence maturity**
 
-**Finding → numerical/documentary evidence → period/scope → governance dimension → implication → governance principle → control requirement → later reform → evidence maturity**
+### 9.8 Limitations
 
-### 8.7 Reliability/limitations
-
-State:
-- secondary/documentary evidence;
+Explicitly state:
+- documentary/secondary evidence;
 - CAG audit scope;
-- eight-state selected component;
+- eight-State selected component;
 - no causal employment inference;
-- later reforms evaluated according to evidence maturity.
+- later reforms separated from audit-period evidence;
+- CAG's Qualification Pack comparison limitation.
 
----
+## 10. Data Analysis and Findings — 1,150 words
 
-## 9. Results / Audit Evidence — 1,050 words
+This section is the principal empirical section.
 
-This is the largest empirical section.
-
-### 9.1 Data reliability
-
-Use high-value CAG evidence:
+### 10.1 Data reliability
+Use verified evidence such as:
 - 94.53% bank-account field anomaly;
-- repeated bank accounts;
+- repeated bank-account identifiers;
 - trainer/assessor identification gaps;
-- contact-data problems;
-- electronic evidence retention.
+- contact-data limitations;
+- electronic evidence-retention weaknesses.
 
-### 9.2 Beneficiary verification
-
+### 10.2 Beneficiary verification
 Use:
-- age/entry-criteria findings;
-- education/qualification findings;
-- relevant verification-system limitations;
-- QP-version limitation.
+- 6.54 lakh candidates across 705 job roles below minimum age according to the CAG's QP comparison;
+- 1,142 under-18 candidates certified in Driver/Chauffeur-related roles;
+- 40,897 candidates lacking required formal education;
+- 4,361 candidates lacking required prior technical qualification;
+- 6,77,807 missing required qualification information and 8,09,046 not meeting the minimum educational qualification in the specified 60,68,523-candidate dataset;
+- CAG's Qualification Pack version limitation.
 
-### 9.3 Monitoring and system validation
+These figures must be accompanied by the exact dataset/scope and the CAG qualification on QP-version comparison. citeturn5search0turn6search0turn2search0
 
+### 10.3 Assessment/monitoring controls
 Use:
+- assessment delays up to 1,270 days;
+- 82,158 batches / 23.87 lakh candidates with final-certification delays beyond seven days;
 - 1,463 inspection reports;
 - repeated photographs;
-- same-day multi-location reporting;
-- AEBAS device issues;
-- geo-tagging/system-validation findings where exact official denominator is verified.
+- same-day multi-location inspector observations;
+- AEBAS device problems;
+- geo-tagging/system-validation evidence only where exact official denominator is verified.
 
-### 9.4 Centre-State integration and feedback
+The assessment-delay figures are official CAG findings and include 50.95% of batches and 49.20% of candidates in the specified eight-State dataset. citeturn3search0
 
+### 10.4 Centre-State integration and feedback
 Use:
-- six of eight audited States lacking central-component data access;
+- six of eight audited States lacking access to central-component training data from NSDC;
 - monitoring-committee findings;
-- 73,100 feedback submissions;
-- beneficiary-survey contact/response problems.
+- 73,100 feedback submissions, less than one per cent of certified candidates;
+- beneficiary-survey contact/response limitations. citeturn1search1
 
-### 9.5 Outcome information
+### 10.5 Outcome information
+Use the CAG's STT/SP certification and placement table:
 
-Use phase-wise certification/placement figures, but explicitly state:
+| Phase | Certified (lakh) | Placed (lakh) | Placement |
+|---|---:|---:|---:|
+| PMKVY 1.0 | 13.32 | 2.23 | 16.74% |
+| PMKVY 2.0 | 40.37 | 20.62 | 51.08% |
+| PMKVY 3.0 | 2.45 | 0.33 | 13.47% |
+| Total | 56.14 | 23.18 | 41.29% |
 
-**These are descriptive programme outcomes and do not establish a causal relationship with digital-governance weaknesses.**
+These are descriptive outcomes for the specified STT/SP population, not causal evidence about digital governance. citeturn1search2
 
-### Results presentation rule
+### Results rule
 
-Every numerical paragraph should answer:
+Every numerical result should identify:
 
-**What? → How much? → Among whom? → During what period? → What does the audit actually establish?**
+**What → amount → denominator/population → period → geographic scope → what the audit establishes → limitation**
 
----
+## 11. Discussion — 750 words
 
-## 10. Discussion — 800 words
+Do not repeat the Results.
 
-The Discussion should not repeat the Results.
+Use four analytical themes:
 
-Use four main analytical themes:
+1. **Digitisation versus information reliability**
+2. **Verification as a governance control**
+3. **Monitoring as a validation chain**
+4. **Interoperability, feedback and outcome tracking**
 
-### 10.1 Digitisation versus information reliability
-Digital infrastructure is not equivalent to reliable administrative information.
-
-### 10.2 Verification as a control
-A field or database entry is not itself a verification mechanism.
-
-### 10.3 Monitoring as a validation chain
-Inspection volume is insufficient without evidence validation and corrective action.
-
-### 10.4 Interoperability, feedback and outcomes
-Information must be accessible, usable and connected to course correction.
-
-Bring in OECD/NITI Aayog concepts only where they directly illuminate the PMKVY findings.
-
-The discussion should explicitly distinguish:
-- CAG finding;
+Distinguish:
+- source-derived fact;
 - researcher interpretation;
-- external governance framework;
+- external conceptual framework;
 - policy inference.
 
----
+Do not claim causality between digital-governance weaknesses and employment outcomes.
 
-## 11. Governance Framework & Policy Implications — 500 words
+## 12. Policy Suggestions and the Way Forward — 400 words
 
-Present the proposed framework compactly.
+Policy suggestions should directly answer documented weaknesses:
 
-### Framework
+1. control-level data-quality indicators;
+2. rule-based eligibility verification;
+3. qualification-version capture and verification;
+4. formal evidence-retention requirements;
+5. exception-based monitoring and closure tracking;
+6. practical Centre-State data access;
+7. closed-loop feedback;
+8. longitudinal post-certification outcome tracking.
 
-**Data Reliability**
-→ **Verification Reliability**
-→ **Evidence Reliability**
-→ **Interoperability & Information Access**
-→ **Feedback & Outcome Tracking**
-→ **Governance Use**
+Recommendations should be framed as evidence-based governance measures, not as untested technology wish-lists.
 
-### Five-control test
+## 13. Conclusions — 200 words
 
-**Existence → Operation → Validation → Usability → Course Correction**
+The conclusion should answer:
 
-### Policy measures
+- What was examined?
+- What did the evidence show?
+- What does the integrated analysis mean?
+- What do later reforms demonstrate at the available evidence level?
+- What remains unproven?
 
-Select only the strongest evidence-linked measures:
+No new evidence should be introduced.
 
-1. Control-level data-quality indicators.
-2. Rule-based eligibility verification.
-3. Formal evidence-retention register.
-4. Exception-based monitoring.
-5. Practical Centre-State data access.
-6. Closed-loop feedback.
-7. Longitudinal outcome tracking.
-
-Do not list all possible digital technologies. Recommendations must directly answer documented weaknesses.
-
----
-
-## 12. Conclusion — 220 words
-
-The conclusion should contain:
-
-1. What the study examined.
-2. What the evidence showed.
-3. What the integrated interpretation is.
-4. What later reforms indicate.
-5. What remains unproven.
-6. Final governance implication.
-
-The conclusion should not introduce new evidence.
-
-Suggested logical endpoint:
-
-**The key issue is not whether skill-development administration is digital, but whether its digital information chain is reliable enough to support verification, monitoring, feedback and evidence-based course correction.**
-
-This should be expressed in the researcher's own final wording.
-
----
-
-## 13. Tables and figures architecture
-
-Use a small number of high-value tables.
+## 14. Tables and figure plan
 
 ### Table 1
 **Selected CAG Findings on Data Reliability and Beneficiary Verification**
 
-Columns:
-- Governance issue
-- CAG evidence
-- Scope/period
-- Interpretation
-
 ### Table 2
-**Monitoring, Integration and Feedback Findings**
-
-Columns:
-- Control area
-- Audit finding
-- Scope
-- Governance implication
+**Monitoring, Assessment, Integration and Feedback Findings**
 
 ### Table 3
-**PMKVY Phase-wise Certification and Placement Outcomes**
-
-Columns:
-- Phase
-- Certified
-- Placed
-- Placement rate
-- Interpretation boundary
+**PMKVY Phase-wise STT/SP Certification and Placement Outcomes**
 
 ### Table 4
-**CAG Weaknesses and Subsequent Governance Responses**
-
-Columns:
-- CAG weakness
-- Required control
-- PMKVY 4.0/SIDH response
-- Evidence maturity
+**CAG Weakness → Required Control → PMKVY 4.0/SIDH Response → Evidence Maturity**
 
 ### Figure 1
 **Digital Governance Control-to-Outcome Chain**
 
-Digital infrastructure
-→ data generation
-→ data quality
-→ verification
-→ evidence retention
-→ monitoring/validation
-→ integration
-→ feedback
-→ outcome tracking
-→ course correction
+The figure is optional and should be included only if it improves analytical clarity without consuming excessive space.
 
-Only include Figure 1 if it improves clarity and does not consume excessive word/page space.
+## 15. RQ-to-section mapping
 
----
-
-## 14. RQ-to-section mapping
-
-| Research question | Primary section | Supporting sections |
-|---|---|---|
-| RQ1 — Data quality, retention, IT controls | Results 9.1 | Discussion 10.1 |
-| RQ2 — Identity and eligibility verification | Results 9.2 | Discussion 10.2 |
-| RQ3 — Monitoring, validation, Centre-State integration | Results 9.3–9.4 | Discussion 10.3–10.4 |
-| RQ4 — PMKVY 4.0/SIDH response | Table 4 + Section 11 | P6 evidence |
-| Main RQ | Entire article | Especially Discussion + Framework |
-
-## 15. Objective-to-evidence mapping
-
-| Objective | Evidence |
+| RQ | Main location |
 |---|---|
-| O1 — Data quality/retention/IT controls | CAG data-quality and retention findings |
-| O2 — Beneficiary verification | Age, qualification, identity/contact findings |
-| O3 — Monitoring/system validation/integration | Inspection, AEBAS, access and integration findings |
-| O4 — Later digital reforms | PMKVY 4.0/SIDH official documents |
-| O5 — Governance framework | P5 + P6 + P8 synthesis |
+| RQ1 — Data quality, retention, IT controls | Data Analysis & Findings 10.1 |
+| RQ2 — Identity/eligibility verification | 10.2 |
+| RQ3 — Monitoring, validation, Centre-State integration | 10.3–10.4 |
+| RQ4 — PMKVY 4.0/SIDH response | Table 4 + Discussion/Policy section |
+| Main RQ | Entire article, especially Discussion and Policy Suggestions |
 
 ## 16. Citation architecture
 
-Use MLA 9 consistently.
+- Numerical CAG finding → CAG report citation.
+- Official reform claim → MSDE/CAG/PIB/official source citation.
+- Academic conceptual claim → verified academic/institutional source.
+- Researcher interpretation → clearly framed as analysis and grounded in preceding evidence.
 
-### Primary evidence
-CAG report should be the principal citation for audit facts.
+Do not use one citation to support unrelated claims.
 
-### Official policy/reform evidence
-Use MSDE/PIB/official government documents for PMKVY 4.0/SIDH developments.
+## 17. Word-control rules
 
-### Academic/conceptual evidence
-Use peer-reviewed/institutional literature for:
-- digital governance;
-- data governance;
-- interoperability;
-- outcome measurement.
+Avoid:
 
-### Citation rule
-
-A sentence containing:
-- a numerical audit finding → CAG citation;
-- later reform claim → official reform citation;
-- academic conceptual claim → academic/institutional citation;
-- researcher interpretation → may not need a citation if immediately grounded in cited evidence, but should be clearly framed as analysis.
-
-Never use one citation to support multiple unrelated claims.
-
----
-
-## 17. Word-control strategy
-
-Because the maximum is 5,000 words, avoid:
-
-- long descriptions of PMKVY history;
-- repeating CAG findings in Discussion;
+- excessive PMKVY history;
+- generic explanations of AI/blockchain;
+- repeating Results in Discussion;
 - source-by-source literature summaries;
-- repeating table numbers in prose;
-- excessive descriptions of digital technologies;
-- generic definitions of AI, blockchain, digitalisation, etc.;
-- policy recommendations not connected to evidence.
+- unsupported claims about programme success/failure;
+- recommendations unrelated to documented evidence.
 
-The article should prioritise:
+Prioritise:
 
-**Evidence → analysis → interpretation → governance implication**
+**Evidence → analysis → interpretation → governance implication.**
 
-rather than:
+## 18. Final submission checks
 
-**Background → background → background.**
+Before drafting is finalised:
 
-## 18. Final article evidence hierarchy
+- 4,000–5,000 words;
+- all official required sections present;
+- conceptual/theoretical background explicitly present;
+- statement of problem explicitly present;
+- methodology explicitly covers approach, variables and tools;
+- data analysis/findings clearly separated from discussion;
+- policy suggestions/way forward explicitly present;
+- MLA 9;
+- Times New Roman 12;
+- standard margins;
+- double spacing;
+- no author-identifying information anywhere in the article PDF;
+- audit period and later reform period clearly separated;
+- eight-State findings not overgeneralised;
+- all major figures verified against primary CAG evidence;
+- no unsupported causal claims;
+- no “first/unique” claim unless independently demonstrated.
 
-### Tier 1 — Core
-CAG Report No. 20 of 2025.
+## Important competition-integrity correction
 
-### Tier 2 — Reform evidence
-Official PMKVY 4.0 guidelines, SIDH/Ministry documents and later official updates.
-
-### Tier 3 — Analytical frameworks
-NITI Aayog DGQI, OECD digital-government literature and relevant academic research.
-
-### Tier 4 — Supporting material
-Other credible institutional/academic sources where directly relevant.
-
-Tier 4 should never override contradictory primary CAG evidence.
-
-## 19. Final quality-control gates before drafting
-
-Before P10 drafting begins, the following must be true:
-
-- Every RQ has evidence.
-- Every objective maps to a section.
-- Every major numerical claim has a verified denominator.
-- Audit period and reform period are separated.
-- Eight-state findings are not generalised improperly.
-- Results and Discussion are distinct.
-- Causal claims are excluded unless supported.
-- Policy recommendations map to documented weaknesses.
-- Later reforms are classified by evidence maturity.
-- No unsupported “first study” or “unique” claim.
-- MLA 9 bibliography can be constructed from verified source metadata.
-- Article remains within 4,000–5,000 words.
-- No section contains unnecessary filler.
+The current official four-page CAG–ICSSR 2026 guidelines reviewed for this audit do **not** state an AI-use prohibition in the listed submission conditions. They do require blind review and prohibit information revealing the author's identity. Therefore, earlier internal notes that described an explicit AI-use disqualification rule should not be repeated as an official competition requirement unless a separate current official notice establishes it. citeturn4view0
 
 ## Process conclusion
 
-P9 is complete. The article's architecture, word budget, evidence placement, RQ mapping, table structure, citation architecture and final quality-control gates are fixed.
+P9 has been retouched and now mirrors the official competition structure more closely while preserving the established research logic and evidence boundaries.
 
 Next formal process: **P10 Source & Citation Audit + Final Evidence Verification**.
