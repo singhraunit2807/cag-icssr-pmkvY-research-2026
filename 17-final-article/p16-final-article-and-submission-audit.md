@@ -137,7 +137,7 @@ Education data showed similar weaknesses. CAG's analysis found that among candid
 
 Work-experience information created another control issue. The system had a provision to record work experience for relevant job roles, but the mechanism for ensuring that the requirement was complied with had not been brought into effect. The governance lesson is therefore broader than a missing field: a system may contain a place to record information without having an effective control that validates the information.
 
-The audit also found that the Skill India Portal lacked information on beneficiaries' employment status or school/college dropout history, limiting the ability to verify whether the scheme's targeted beneficiary criteria were being followed. The Ministry subsequently reported work toward UDISE+ integration. Under PMKVY 4.0, the official guidelines provide for candidate registration on Skill India Digital with e-KYC/Aadhaar-based authentication and mobile-number authentication (Ministry of Skill Development and Entrepreneurship, 4.0 Guidelines; CAG 37–38).
+The audit also found that the Skill India Portal lacked information on beneficiaries' employment status or school/college dropout history, limiting the ability to verify whether the scheme's targeted beneficiary criteria were being followed. The Ministry subsequently reported work toward UDISE+ integration. Under PMKVY 4.0, the official guidelines provide for candidate registration on Skill India Digital with e-KYC/Aadhaar-based authentication and mobile-number authentication (Ministry of Skill Development and Entrepreneurship 23, 48; CAG 37–38).
 
 Together, these findings support a control model in which a beneficiary profile is only the first step. Reliable eligibility administration requires a rule, a verified input, an exception mechanism and a record of resolution.
 
@@ -230,7 +230,7 @@ The Centre-State findings further demonstrate that interoperability is partly an
 
 ### 7.5 Reform should be assessed by maturity, not announcement
 
-PMKVY 4.0 introduced or strengthened several mechanisms corresponding to earlier weaknesses, including e-KYC, candidate authentication, monitoring measures and one-year post-certification tracking. The official PMKVY 4.0 guidelines also provide for physical inspection, assessment monitoring and structured post-certification tracking through Skill India Digital. SIDH further represents a move toward a unified digital ecosystem. These developments are important, but they should not be treated as evidence that every earlier problem has been eliminated (Ministry of Skill Development and Entrepreneurship, 4.0 Guidelines).
+PMKVY 4.0 introduced or strengthened several mechanisms corresponding to earlier weaknesses, including e-KYC, candidate authentication, monitoring measures and one-year post-certification tracking. The official PMKVY 4.0 guidelines also provide for physical inspection, assessment monitoring and structured post-certification tracking through Skill India Digital. SIDH further represents a move toward a unified digital ecosystem. These developments are important, but they should not be treated as evidence that every earlier problem has been eliminated (Ministry of Skill Development and Entrepreneurship 9, 30, 48).
 
 The CAG's own examination of PMKVY 4.0 data in October 2024 found residual underage and contact-data issues. This makes an evidence-maturity approach useful. A policy specification is design evidence. Evidence that a mechanism has been deployed is implementation evidence. Evidence that it operates consistently is operational evidence. Evidence that it improves governance outcomes is effectiveness evidence. These are different claims.
 
@@ -277,6 +277,8 @@ The overall way forward is therefore not simply more digitisation. It is stronge
 # Works Cited
 
 Comptroller and Auditor General of India. *Report No. 20 of 2025: Skill Development under Pradhan Mantri Kaushal Vikas Yojana*. Ministry of Skill Development and Entrepreneurship, 2025.
+
+Ministry of Skill Development and Entrepreneurship. *Guidelines for Pradhan Mantri Kaushal Vikas Yojana 4.0*. Government of India, 2023. https://www.msde.gov.in/static/uploads/2024/04/PMKVY-4.0-Guidelines.pdf.
 
 Mao, Zijun, et al. “Government Data Governance Framework Based on a Data Middle Platform.” *Aslib Journal of Information Management*, vol. 74, no. 2, 2022, pp. 289–310. https://doi.org/10.1108/AJIM-03-2021-0068.
 
