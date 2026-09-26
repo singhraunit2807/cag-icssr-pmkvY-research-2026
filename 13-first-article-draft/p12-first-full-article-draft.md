@@ -83,7 +83,7 @@ The problem is especially relevant because digital transformation can produce la
 
 The study uses a qualitative document-analysis design supported by descriptive quantitative analysis and comparative policy/document analysis. The principal empirical source is CAG Report No. 20 of 2025, *Skill Development under Pradhan Mantri Kaushal Vikas Yojana*. The audit covers the first three PMKVY phases during 2015–22 and was conducted at MSDE, NSDC and eight selected States: Assam, Bihar, Jharkhand, Kerala, Maharashtra, Odisha, Rajasthan and Uttar Pradesh. The CAG also examined relevant financial and skill-quality issues involving the National Skill Development Fund and NCVET (CAG 8–9).
 
-Official supporting documents include PMKVY 4.0 guidelines and later MSDE/PIB material concerning digital systems and monitoring measures. Academic sources are used primarily for conceptualisation of data governance, interoperability and data collaboration. The main audit period and later reform period are kept analytically separate: 2015–22 is treated as the principal audit period, while subsequent evidence is used to examine the reform trajectory.
+Official supporting documents include the PMKVY 4.0 guidelines and later MSDE/PIB material concerning digital systems and monitoring measures. These sources are used only for the later reform layer and are kept separate from the 2015–22 main audit evidence. Academic sources are used primarily for conceptualisation of data governance, interoperability and data collaboration. The main audit period and later reform period are kept analytically separate: 2015–22 is treated as the principal audit period, while subsequent evidence is used to examine the reform trajectory.
 
 The unit of analysis is a documented governance or audit observation and the governance function or control associated with it. Individual beneficiaries are not treated as the statistical unit of a new survey or causal study. The study therefore does not estimate individual-level effects.
 
@@ -123,7 +123,7 @@ Education data showed similar weaknesses. CAG's analysis found that among candid
 
 Work-experience information created another control issue. The system had a provision to record work experience for relevant job roles, but the mechanism for ensuring that the requirement was complied with had not been brought into effect. The governance lesson is therefore broader than a missing field: a system may contain a place to record information without having an effective control that validates the information.
 
-The audit also found that the Skill India Portal lacked information on beneficiaries' employment status or school/college dropout history, limiting the ability to verify whether the scheme's targeted beneficiary criteria were being followed. The Ministry subsequently reported work toward UDISE+ integration and, under PMKVY 4.0, Aadhaar-based e-KYC and SIDH-based registration measures intended to strengthen the registration process (CAG 37–38).
+The audit also found that the Skill India Portal lacked information on beneficiaries' employment status or school/college dropout history, limiting the ability to verify whether the scheme's targeted beneficiary criteria were being followed. The Ministry subsequently reported work toward UDISE+ integration. Under PMKVY 4.0, the official guidelines provide for candidate registration on Skill India Digital with e-KYC/Aadhaar-based authentication and mobile-number authentication (Ministry of Skill Development and Entrepreneurship, 4.0 Guidelines; CAG 37–38).
 
 Together, these findings support a control model in which a beneficiary profile is only the first step. Reliable eligibility administration requires a rule, a verified input, an exception mechanism and a record of resolution.
 
@@ -161,7 +161,7 @@ CAG reported that among 56.14 lakh candidates certified under the STT/SP compone
 
 These figures are important because they demonstrate why outcome tracking is necessary, but they do not establish why the rates differed across phases or whether digital-governance weaknesses caused the observed outcomes. CAG discussed other programme-level issues, including training alignment with skill gaps and market demand. The present study therefore uses placement data descriptively rather than as causal evidence.
 
-Outcome tracking should also extend beyond a single placement indicator. A governance system intended to assess skill-development value should be capable of connecting certification to subsequent employment or self-employment information and, where available, longer-term indicators. PMKVY 4.0's provision for post-certification tracking is therefore relevant as a control design, but design evidence must be distinguished from demonstrated effectiveness.
+Outcome tracking should also extend beyond a single placement indicator. A governance system intended to assess skill-development value should be capable of connecting certification to subsequent employment or self-employment information and, where available, longer-term indicators. PMKVY 4.0's provision for one-year post-certification tracking is therefore relevant as a control design, but design evidence must be distinguished from demonstrated effectiveness (Ministry of Skill Development and Entrepreneurship, 4.0 Guidelines).
 
 ## 7. Discussion
 
@@ -191,7 +191,7 @@ This supports the distinction between technical interoperability and organisatio
 
 ### 7.5 Reform should be assessed by maturity, not announcement
 
-PMKVY 4.0 introduced or strengthened several mechanisms corresponding to earlier weaknesses, including Aadhaar-based e-KYC, candidate profiling, monitoring measures and post-certification tracking. SIDH further represents a move toward a unified digital ecosystem. These developments are important, but they should not be treated as evidence that every earlier problem has been eliminated.
+PMKVY 4.0 introduced or strengthened several mechanisms corresponding to earlier weaknesses, including e-KYC, candidate authentication, monitoring measures and one-year post-certification tracking. The official PMKVY 4.0 guidelines also provide for physical inspection, assessment monitoring and structured post-certification tracking through Skill India Digital. SIDH further represents a move toward a unified digital ecosystem. These developments are important, but they should not be treated as evidence that every earlier problem has been eliminated (Ministry of Skill Development and Entrepreneurship, 4.0 Guidelines).
 
 The CAG's own examination of PMKVY 4.0 data in October 2024 found residual underage and contact-data issues. This makes an evidence-maturity approach useful. A policy specification is design evidence. Evidence that a mechanism has been deployed is implementation evidence. Evidence that it operates consistently is operational evidence. Evidence that it improves governance outcomes is effectiveness evidence. These are different claims.
 
