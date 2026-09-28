@@ -15,7 +15,7 @@ P23 — Dean Research requested corrections before final submission.
 4. One conceptual figure was added: “Proposed Digital-Governance Control Chain.”
 5. Main headings were renumbered so the Research Question precedes Objectives and the required article sequence remains clear.
 6. CAG figures and citations were rechecked against CAG Report No. 20 of 2025.
-7. The bank-account citation was corrected from CAG pp. 26–27 to CAG pp. 25–27 because the exact 94.53% and 12,122/52,381 findings are on printed report p. 27 in the PDF viewer mapping and were locked in the study's printed-page citation convention as pp. 25–27.
+7. The bank-account citation was corrected from CAG pp. 26–27 to CAG pp. 25–27 because the exact 94.53% and 12,122/52,381 findings appear on printed report p. 27, while trainer/assessor identifier findings span pp. 26–27.
 8. Methodology explicitly states analytical variables.
 9. Blind-review identifiers were checked and removed from the article body.
 10. Word count was tightened to approximately 4,997 words including tables/caption text, remaining within the 4,000–5,000-word UG/PG range.
@@ -30,10 +30,10 @@ P23 — Dean Research requested corrections before final submission.
 - Audit scope and methodology: CAG pp. 8–9
 - Data retention: CAG pp. 24–25
 - Bank-account field and repeated accounts: CAG pp. 25–27
-- Contact-data anomalies and beneficiary-contact exercise: CAG pp. 26–27
-- Age/qualification findings: CAG pp. 33–37
+- Contact-data anomalies and beneficiary-contact exercise: CAG pp. 28–29
+- Age/qualification findings: CAG pp. 34–37
 - Assessment/certification delays: CAG p. 44
-- Monitoring evidence: CAG pp. 58–62
+- Monitoring evidence: CAG pp. 59–62
 - AEBAS: CAG p. 76
 - Centre-State data access and feedback: CAG p. 77
 - Placement outcomes: CAG p. 46
